@@ -3,7 +3,7 @@
 <img align="right" width="400" alt="coding" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hypertext-Workaholics&label=Profile%20views&color=0e75b6&style=flat" alt="Hypertext-Workaholics" /> </p>
 
-- 🔭 I’m currently working as **Web Development Intern**
+- 🔭 I’m currently working as **Software Engineer Trainee**
 
 - 🌱 I’m currently learning **DSA**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Backend**
 
-- 💬 Ask me about **C++, C, Web Development, Django, Python**
+- 💬 Ask me about **C++, C, Web Development, Django, Python,PHP**
 
 - 📫 How to reach me **ss814547@gmail.com**
 
